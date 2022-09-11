@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
-    "start": "tsc && node build/src/main.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "gts lint",
     "clean": "gts clean",
